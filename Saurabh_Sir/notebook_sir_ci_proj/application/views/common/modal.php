@@ -1,0 +1,1 @@
+<div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" area-labelledby="exampleModalLabel">

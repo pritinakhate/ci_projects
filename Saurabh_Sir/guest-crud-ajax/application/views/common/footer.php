@@ -1,0 +1,2 @@
+<?php $allsetting = $this->Common_model->GetData("settings","","","","","","1"); ?>
+<footer class="col-md-12 col-sm-12 col-xs-12 col-lg-12 text-center black footerpad"><?= $allsetting->footer_note; ?></footer>
